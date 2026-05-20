@@ -4,7 +4,19 @@
 
 Computer Engineering Undergraduate · University of Ruhuna, Sri Lanka
 
-[LinkedIn](https://linkedin.com/in/vishnuhasivanandarajah) · [GitHub](https://github.com/vishnu-siva) · [Email](mailto:vishnuhasivanandarajah8855@gmail.com)
+<br/>
+
+<a href="https://www.linkedin.com/in/vishnuha-sivanandarajah-90428a369">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/vishnu-siva">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:vishnuhasivanandarajah8855@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
@@ -48,8 +60,9 @@ Full-stack developer specializing in software engineering with hands-on experien
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=vishnu-siva&show_icons=true&theme=default&hide_border=true&hide_title=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-siva&layout=compact&theme=default&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=vishnu-siva&show_icons=true&hide_border=true&hide_title=true&count_private=true" height="150"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-siva&layout=compact&hide_border=true&langs_count=6" height="150"/>
 
 </div>
 
