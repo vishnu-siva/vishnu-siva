@@ -24,7 +24,15 @@ Computer Engineering Undergraduate · University of Ruhuna, Sri Lanka
 
 ## About
 
-Full-stack developer specializing in software engineering with hands-on experience in React, Spring Boot, and cloud deployment. Currently building AI-powered applications and exploring machine learning. GPA 3.165 · Batticaloa, Sri Lanka.
+I'm a Computer Engineering undergraduate specializing in **Software Engineering**, passionate about building real-world applications that are clean, scalable, and impactful.
+
+I have solid hands-on experience in **full-stack web development** using React and Spring Boot, and I enjoy working across the entire stack — from designing REST APIs and managing databases to building responsive frontends and deploying on the cloud.
+
+Beyond web development, I actively explore **Artificial Intelligence and Machine Learning**, having worked on projects involving LSTM-based stock prediction, computer vision for OMR evaluation, and unsupervised customer segmentation models.
+
+I care deeply about **software quality** — I practice Test-Driven Development (TDD), Behavior-Driven Development (BDD), and use tools like SonarQube, Selenium, and JMeter to ensure my code is reliable and maintainable.
+
+I'm always learning, collaborating on open-source projects, and pushing myself to write better software every day.
 
 ---
 
